@@ -25,7 +25,7 @@ export function Welcome({ message }:  { message: string }) {
 									</a>
 								</li>
 							))}
-							<li className="self-stretch p-3 leading-normal">{Toe Bean & Bind}</li>
+							<li className="self-stretch p-3 leading-normal">Toe Bean & Bind</li>
 						</ul>
 					</nav>
 				</div>
