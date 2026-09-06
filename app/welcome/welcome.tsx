@@ -56,7 +56,7 @@ const resources = [
 		),
 	},
 	{
-		href: "https://rmx.as/discord",
+		href: "https://toebeanandbind.com",
 		text: "Join Us",
 		icon: (
 			<svg
